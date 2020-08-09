@@ -11,4 +11,3 @@ end
   puts "color: #{colors[6]}" 
   puts "#{display_rainbow(colors)}"
 end
-end
